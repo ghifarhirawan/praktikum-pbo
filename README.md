@@ -1,2 +1,4 @@
 # praktikumPBOB2
-Tugas Praktikum PBO 24060122140160
+
+Ahmad Muhammad Ghifar Hirawan
+24060122140160
